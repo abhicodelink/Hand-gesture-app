@@ -1,0 +1,50 @@
+body {
+  background-color: #dedede;
+}
+.btn-primary{
+  font-size:20px;
+  letter-spacing: 5px;
+  margin-bottom:20px;
+}
+.sign {
+  display:flex;
+  justify-content: center;
+  font-size:20px;
+}
+.sign .line {
+  height:30px;
+  padding:1px;
+  background-color: #fff;
+}
+label {
+  padding:10px;
+  border-radius:10px;
+  background-color: #fff;
+  color:  #58c966;
+  margin-top:20px;
+}
+#camera {
+  border: 4px dotted #fff;
+  height:320px;
+  margin-left:20px;
+  margin-bottom:20px;
+  margin-top:10px;
+  width:350px;
+}
+#result {
+  border: 4px dotted #fff;
+  height:320px;
+  margin-right:20px;
+  margin-bottom:20px;
+  margin-top:10px;
+}
+button {
+  width:100px;
+  height: 40px;
+  font-size:17px;
+  font-weight: 900;
+  margin-bottom:100px;
+}
+.conainer {
+  margin-bottom:420px;
+}
